@@ -1,0 +1,7 @@
+hello
+world
+print
+phone
+night
+earth
+game

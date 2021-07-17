@@ -1,0 +1,4 @@
+destiny
+hangman
+beautiful
+umbrella
